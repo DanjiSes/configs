@@ -9,3 +9,4 @@
 7. OBS Studio
 8. Notion
 9. Tilix (ohmyzsh)
+10. Flameshot
