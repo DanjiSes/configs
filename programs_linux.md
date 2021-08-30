@@ -11,3 +11,4 @@
 9. Tilix (ohmyzsh)
 10. Flameshot
 11. Slack
+12. Transmission
