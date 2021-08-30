@@ -10,3 +10,4 @@
 8. Notion
 9. Tilix (ohmyzsh)
 10. Flameshot
+11. Slack
