@@ -22,4 +22,4 @@ brew install --cask microsoft-teams
 3. Install software in app store
 
 - Focus To-Do
-
+- Lightshot Screenshot
