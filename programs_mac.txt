@@ -18,6 +18,7 @@ brew install --cask transmission
 brew install --cask flameshot
 brew install --cask zoom
 brew install --cask microsoft-teams
+brew install --cask protonvpn
 
 3. Install software in app store
 
