@@ -2,9 +2,6 @@
 
 1. Bitwarden
 2. Wappalyzer
-3. Focus To-Do
 4. Vimium
-5. React Developer Tools
-
 
 
