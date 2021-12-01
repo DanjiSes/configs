@@ -1,6 +1,25 @@
 # Programs I used on Mac
 
-1. Brew (Homebrew)
-2. Iterm2
-3. Brawe Browser
-4. VS Code
+1. Install Brew
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+2. Install software via brew
+
+brew install --cask iterm2
+brew install --cask brave-browser
+brew install --cask visual-studio-code
+brew install --cask telegram
+brew install --cask discord
+brew install --cask figma
+brew install --cask notion
+brew install --cask obs
+brew install --cask transmission
+brew install --cask flameshot
+brew install --cask zoom
+brew install --cask microsoft-teams
+
+3. Install software in app store
+
+- Focus To-Do
+
