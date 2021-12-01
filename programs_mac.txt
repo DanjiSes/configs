@@ -23,4 +23,3 @@ brew install --cask protonvpn
 3. Install software in app store
 
 - Focus To-Do
-- Lightshot Screenshot
