@@ -12,6 +12,7 @@ code --install-extension EditorConfig.EditorConfig
 code --install-extension esbenp.prettier-vscode
 code --install-extension felixfbecker.php-debug
 code --install-extension felixfbecker.php-pack
+code --install-extension firsttris.vscode-jest-runner
 code --install-extension fivethree.vscode-svelte-snippets
 code --install-extension hbenl.vscode-test-explorer
 code --install-extension kavod-io.vscode-jest-test-adapter
@@ -19,6 +20,9 @@ code --install-extension mrmlnc.vscode-apache
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
 code --install-extension ms-vscode.test-adapter-converter
 code --install-extension ms-vscode.vscode-typescript-next
 code --install-extension ms-vsliveshare.vsliveshare
@@ -31,6 +35,5 @@ code --install-extension ronnidc.nunjucks
 code --install-extension rvest.vs-code-prettier-eslint
 code --install-extension shufo.vscode-blade-formatter
 code --install-extension stylelint.vscode-stylelint
-code --install-extension svelte.svelte-vscode
 code --install-extension syler.sass-indented
 code --install-extension william-voyek.vscode-nginx
