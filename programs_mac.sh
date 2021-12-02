@@ -27,4 +27,4 @@ brew install --cask binance
 
 # Install apps from App Store via Mas
 
-mas install 1258530160
+mas install 1258530160 # Focus To-Do
