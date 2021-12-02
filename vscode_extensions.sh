@@ -37,4 +37,5 @@ code --install-extension shufo.vscode-blade-formatter
 code --install-extension stylelint.vscode-stylelint
 code --install-extension svelte.svelte-vscode
 code --install-extension syler.sass-indented
+code --install-extension TabNine.tabnine-vscode
 code --install-extension william-voyek.vscode-nginx
