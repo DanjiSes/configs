@@ -1,15 +1,13 @@
-# Programs I used on Mac
-
-1. Install Brew
+# Install brew
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-2. Install software via brew
+# Install soft
 
-brew install docker-compose
 brew install nvm
 brew install yarn
 brew install php
+brew install mas
 
 brew install --cask docker
 brew install --cask iterm2
@@ -27,6 +25,6 @@ brew install --cask microsoft-teams
 brew install --cask protonvpn
 brew install --cask binance
 
-3. Install software in app store
+# Install apps from App Store via Mas
 
-- Focus To-Do
+mas install 1258530160
