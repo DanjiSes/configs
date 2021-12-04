@@ -24,6 +24,7 @@ brew install --cask zoom
 brew install --cask microsoft-teams
 brew install --cask protonvpn
 brew install --cask binance
+brew install --cask insomnia
 
 # Install apps from App Store via Mas
 
