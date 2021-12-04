@@ -29,3 +29,6 @@ brew install --cask insomnia
 # Install apps from App Store via Mas
 
 mas install 1258530160 # Focus To-Do
+
+# By apps
+# 1. rcmd • App Switcher
