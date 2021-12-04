@@ -8,6 +8,7 @@ brew install nvm
 brew install yarn
 brew install php
 brew install mas
+brew install ansible
 
 brew install --cask docker
 brew install --cask iterm2
