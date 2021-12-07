@@ -11,6 +11,7 @@ brew install mas
 brew install ansible
 brew install openjdk@11
 sudo ln -sfn $(brew --prefix)/opt/openjdk@11/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk-11.jdk
+brew install gradle
 
 brew install --cask docker
 brew install --cask iterm2
